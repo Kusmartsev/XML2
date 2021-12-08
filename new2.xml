@@ -1,0 +1,9 @@
+<student>
+        <name>Kusmartsev</name>
+        <age>46</age>
+        <pets>0</pets>
+        <salary>
+                <amount>1000</amount>
+                <currency>usd<currency>
+        </salary>
+</student>
